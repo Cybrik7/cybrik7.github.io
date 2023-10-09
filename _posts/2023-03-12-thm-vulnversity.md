@@ -189,7 +189,7 @@ We create a temporary service and then use that to view `root.txt` file.This is 
 
 ![image](https://i.postimg.cc/fRyM9dYW/screenshot-34.png){: width='1280' height='720'}
 
-Proceed by reading the `/tmp/output` file and you will find the key!
+Proceed by reading the `/tmp/output` file and you will find the key!!
 
 >Answer: axxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
