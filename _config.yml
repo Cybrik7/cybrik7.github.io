@@ -20,10 +20,10 @@ timezone: Asia/Kolkata
 
 title: Cybrik7 # the main title
 
-tagline: My Cybersecurity Blog # it will display as the sub-title
+tagline: Cybersecurity Blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  My Cybersecurity Blog
+ Cybersecurity Blog
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://cybrik7.github.io"
