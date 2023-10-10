@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Vulnversity - Writeup
-author: V0ID7
+author: 
 date: 2023-03-14
 icon: https://i.postimg.cc/T29Q8LRY/screenshot-144.jpg
-categories: [TryHackMe,Linux]
-tags: [thm-vulnversity]
+categories: [TryHackMe]
+tags: [vulnversity,recon,privesc,webappsec]
 pin: false
 image:
   path: https://i.postimg.cc/T29Q8LRY/screenshot-144.jpg
